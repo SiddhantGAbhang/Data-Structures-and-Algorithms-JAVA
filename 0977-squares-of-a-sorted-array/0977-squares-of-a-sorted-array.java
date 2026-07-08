@@ -1,6 +1,6 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-      int n = nums.length;
+         int n = nums.length;
 
         // Case 1: all non-negative
         if (nums[0] >= 0) {
